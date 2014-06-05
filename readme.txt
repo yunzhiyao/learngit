@@ -5,3 +5,4 @@ Git tracks changes of files.
 changeed
 sdhsdakvjlf
 dfskfklhnklj
+Creating a new branch is quick.
